@@ -1,13 +1,17 @@
 program sequenciasCrescentes;
 
 var
-x: integer;
+x, num: integer;
 
 begin
-// ler esse x diversas vzs, decidir primeiro que tipo de loop irei usar, se while do, for ou repeat
-  readln(x);
-
-// p/ CADA numero lido, tem q mostrar sua ordem crescente
-
-writeln(x, ' ');
+x := 1;
+  while (x > 0) do
+  begin
+    read(x);
+    for num := 1 to x do
+    begin
+    write(num, ' ');
+    end;
+  	writeln(' ');
+  end;
 end.
