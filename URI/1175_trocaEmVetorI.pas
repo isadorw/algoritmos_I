@@ -1,12 +1,18 @@
 program TrocaVetorI;
 
 var 
-   x: array [0..19] of integer;
+   N: array [0..19] of integer;
    i: integer;
 begin
     i := 0;
-    for i := 0 to 19 do 
+    for i := 19 downto 0 do 
     begin
-        readln(x[i]);
+        readln(N[i]);
     end;  
+
+    for i := 0 to 19 do
+    begin
+        writeln('N[', i, '] = ',  N[i]);
+    end;
+end.nd;
 end.
