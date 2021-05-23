@@ -4,7 +4,7 @@ var
 x, num: integer;
 
 begin
-x := 1;
+num := 1;
   while (x > 0) do
   begin
     read(x);
