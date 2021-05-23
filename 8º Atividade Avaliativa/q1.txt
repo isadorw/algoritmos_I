@@ -1,0 +1,8 @@
+No caso de uma ordenação decrescente, por exemplo, a posição atual dos elementos é comparada com a próxima posição. Se a posição atual for maior que a posição posterior, é realizada a troca dos valores nessa posição. Caso contrário, não é realizada a troca, apenas passa-se para o próximo par de comparações. O algoritmo percorre todo o vetor diversas vezes, por isso, não é recomendado o uso dele para aplicações que requerem velocidade ou trabalhem com uma grande quantidade de dados.
+
+O texto acima refere-se a qual tipo de algoritmo de ordenação?
+
+Escolha uma opção:
+a. Método de Seleção
+b. Método Bolha Correto
+c. Método de Inserção

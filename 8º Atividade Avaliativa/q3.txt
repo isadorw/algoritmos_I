@@ -1,0 +1,7 @@
+A primeira iteração desse algoritmo seleciona o segundo elemento no array e, se for menor que o primeiro elemento, troca-o pelo primeiro elemento. A segunda iteração examina o terceiro elemento e o insere na posição correta com relação aos dois primeiros elementos, de modo que todos os três elementos sejam na ordem. Na i-ésima interação desse algoritmo, os primeiros elementos i, no array original, serão classificados.
+ 
+O texto acima refere-se a qual tipo de algoritmo de ordenação?
+Escolha uma opção:
+a. Método de Seleção
+b. Método de Inserção Correto
+c. Método Bolha
