@@ -1,2 +1,2 @@
 # Algoritmos I
- Repositório dedicada a disciplina de Algoritmos I ministrada na UFMT.
+ Repositório dedicado a disciplina de Algoritmos I ministrada na UFMT.
